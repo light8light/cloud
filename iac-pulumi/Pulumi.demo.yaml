@@ -1,0 +1,26 @@
+encryptionsalt: 
+config:
+  aws:profile: 
+  aws:region: 
+  gcp:project: 
+  iac-pulumi-aws:cloudWatchAgentServerPolicy_arn: 
+  iac-pulumi-aws:customAmiId: 
+  iac-pulumi-aws:github_url: 
+  iac-pulumi-aws:googleBucketName: 
+  iac-pulumi-aws:googleProject: 
+  iac-pulumi-aws:hosted_zone_id: 
+  iac-pulumi-aws:hosted_zone_name: 
+  iac-pulumi-aws:keyPairName: 
+  iac-pulumi-aws:lambda_function_code: 
+  iac-pulumi-aws:rds_db_identifier: 
+  iac-pulumi-aws:rds_db_name: 
+  iac-pulumi-aws:rds_db_password:
+    secure: 
+  iac-pulumi-aws:rds_db_username: 
+  iac-pulumi-aws:rds_instance_endpoint: 
+  iac-pulumi-aws:ses_sender_email: 
+  iac-pulumi-aws:sns_full_access_policy_arn: 
+  iac-pulumi-aws:sqs_full_access_policy_arn: 
+  iac-pulumi-aws:vpcCIDR: 
+  region: 
+  ssl_certificate_arn: 

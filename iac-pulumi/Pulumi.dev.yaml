@@ -1,0 +1,6 @@
+encryptionsalt: 
+config:
+  aws:profile: 
+  aws:region: 
+  vpcCIDR: 
+
