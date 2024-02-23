@@ -1,7 +1,9 @@
 # iac-pulumi
 
 This project is to automate AWS and GCP ressources, and to run the software on cloud platform.
+
 You have to set up your own AWS and GCP account or any other cloud service account, and replace the values in the yaml files to use.
+
 All of the account info shown in the yaml files has been destroyed, therefore, you can't just run it.
 
 ## Prerequisites
