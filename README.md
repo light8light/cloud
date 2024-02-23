@@ -1,4 +1,4 @@
-# A webapp running on AWS and GCP cloud platforms.
+# Cloud Computing Project
 
 This is a RESTful API-driven app, allow students to create/update/delete/submit assignmentss in canvas.
 
