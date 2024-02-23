@@ -4,7 +4,7 @@ This project is to automate AWS and GCP ressources, and to run the software on c
 
 You have to set up your own AWS and GCP account or any other cloud service account, and replace the values in the yaml files to use.
 
-All of the account info shown in the yaml files has been destroyed, therefore, you can't just run it.
+All of the account info shown in the yaml files have been destroyed, so you can't just run the code without your own account.
 
 ## Prerequisites
 
