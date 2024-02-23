@@ -1,4 +1,4 @@
-# iac-pulumi
+# awsgcp
 
 This project is to automate AWS and GCP ressources, and to run the software on cloud platform.
 
