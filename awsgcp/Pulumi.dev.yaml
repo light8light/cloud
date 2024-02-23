@@ -1,6 +1,7 @@
-encryptionsalt: 
+encryptionsalt: v1:KZapp26On6Y=:v1:XU2T7po42SYflYuR:ytbsvqvi/gqXaCEVs/k+yx0iQCK7iA==
 config:
-  aws:profile: 
-  aws:region: 
-  vpcCIDR: 
+  aws:profile: dev
+  aws:region: us-west-2
+  vpcCIDR: 10.20.0.0/24
+  gcp:project: csye6225-dev-405723
 

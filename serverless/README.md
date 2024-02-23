@@ -1,5 +1,8 @@
 # serverless
 
+This is a lambda function for "webapp" project.
+The code has to be used with "webapp" and "awsgcp".
+
 ## Build lambda function:
 
 The Lambda function is responsible for following:
