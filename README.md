@@ -6,7 +6,7 @@ The Cloud WebApp is a cloud-native and RESTful API-driven web application develo
 
 <p align="center">
   <a href="https://venmo.com/u/lightandlight">
-    <img src="https://img.shields.io/badge/Donate-Venmo-ff69b4.svg" alt="Donate" width="200" height="40">
+    <img src="https://img.shields.io/badge/Coffee❤️-ff69b4.svg" alt="Donate" width="150" height="50">
   </a>
 </p>
 
